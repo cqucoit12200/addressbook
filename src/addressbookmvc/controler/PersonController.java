@@ -71,4 +71,8 @@ public class PersonController {
    public void test(){
    
    }
+   
+   public void test2() {
+    
+}
 }
