@@ -68,4 +68,7 @@ public class PersonController {
    {
       model.close();
    } 
+   public void test(){
+   
+   }
 }
