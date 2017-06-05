@@ -72,7 +72,7 @@ public class PersonController {
    
    }
    
-   public void test2() {
+   public void test1() {
     
 }
 
